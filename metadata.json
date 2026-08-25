@@ -1,0 +1,6 @@
+{
+  "name": "NexusConnect",
+  "description": "The relationship intelligence platform that helps people meet the right people, exchange information with consent, remember every interaction, and turn networks into opportunities.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
